@@ -1,0 +1,3 @@
+  "DeliverToGitHubPackages": {
+    "branches": [ " NonExistingBranch" ]
+  }
